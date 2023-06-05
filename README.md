@@ -2,6 +2,7 @@
 Module 22 Assignment
 
 *Using the Google Colab file for code
+
 **Note there is an error in the original code, spark_version = 'spark-3.3.2' is needed for code to run**
 
 In this challenge, you'll use your knowledge of SparkSQL to determine key metrics about home sales data. Then you'll use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
